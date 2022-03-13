@@ -1,0 +1,8 @@
+C:\Users\My PC\source\repos\case study\case study\bin\Debug\case study.exe.config
+C:\Users\My PC\source\repos\case study\case study\bin\Debug\case study.exe
+C:\Users\My PC\source\repos\case study\case study\bin\Debug\case study.pdb
+C:\Users\My PC\source\repos\case study\case study\obj\Debug\case study.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\case study\case study\obj\Debug\case study.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\source\repos\case study\case study\obj\Debug\case study.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\case study\case study\obj\Debug\case study.exe
+C:\Users\My PC\source\repos\case study\case study\obj\Debug\case study.pdb

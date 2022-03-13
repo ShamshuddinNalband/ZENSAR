@@ -1,0 +1,15 @@
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.AssemblyInfo.cs
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\bin\Debug\net6.0\ASSIGNMENT JAN21.exe
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\bin\Debug\net6.0\ASSIGNMENT JAN21.deps.json
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\bin\Debug\net6.0\ASSIGNMENT JAN21.runtimeconfig.json
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\bin\Debug\net6.0\ASSIGNMENT JAN21.dll
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\bin\Debug\net6.0\ref\ASSIGNMENT JAN21.dll
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\bin\Debug\net6.0\ASSIGNMENT JAN21.pdb
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.dll
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ref\ASSIGNMENT JAN21.dll
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.pdb
+C:\Users\My PC\source\repos\ASSIGNMENT JAN21\ASSIGNMENT JAN21\obj\Debug\net6.0\ASSIGNMENT JAN21.genruntimeconfig.cache

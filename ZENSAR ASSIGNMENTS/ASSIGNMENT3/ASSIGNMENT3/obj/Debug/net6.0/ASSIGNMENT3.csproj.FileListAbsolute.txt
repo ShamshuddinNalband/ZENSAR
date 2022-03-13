@@ -1,0 +1,15 @@
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\bin\Debug\net6.0\ASSIGNMENT3.exe
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\bin\Debug\net6.0\ASSIGNMENT3.deps.json
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\bin\Debug\net6.0\ASSIGNMENT3.runtimeconfig.json
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\bin\Debug\net6.0\ASSIGNMENT3.dll
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\bin\Debug\net6.0\ref\ASSIGNMENT3.dll
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\bin\Debug\net6.0\ASSIGNMENT3.pdb
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.AssemblyInfo.cs
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.dll
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ref\ASSIGNMENT3.dll
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.pdb
+C:\Users\My PC\source\repos\ASSIGNMENT3\ASSIGNMENT3\obj\Debug\net6.0\ASSIGNMENT3.genruntimeconfig.cache

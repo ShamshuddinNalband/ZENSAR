@@ -1,0 +1,15 @@
+C:\Users\My PC\source\repos\janassignment2\janassignment2\bin\Debug\net6.0\janassignment2.exe
+C:\Users\My PC\source\repos\janassignment2\janassignment2\bin\Debug\net6.0\janassignment2.deps.json
+C:\Users\My PC\source\repos\janassignment2\janassignment2\bin\Debug\net6.0\janassignment2.runtimeconfig.json
+C:\Users\My PC\source\repos\janassignment2\janassignment2\bin\Debug\net6.0\janassignment2.dll
+C:\Users\My PC\source\repos\janassignment2\janassignment2\bin\Debug\net6.0\ref\janassignment2.dll
+C:\Users\My PC\source\repos\janassignment2\janassignment2\bin\Debug\net6.0\janassignment2.pdb
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.AssemblyInfo.cs
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.dll
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\ref\janassignment2.dll
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.pdb
+C:\Users\My PC\source\repos\janassignment2\janassignment2\obj\Debug\net6.0\janassignment2.genruntimeconfig.cache

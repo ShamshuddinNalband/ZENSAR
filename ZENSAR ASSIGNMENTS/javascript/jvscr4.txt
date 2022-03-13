@@ -1,0 +1,27 @@
+4.Write a JavaScript program to check whether two given integer values are in the range 50..99 (inclusive). Return true if both of them are in the said range, else false.
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <h4>JavaScript program to check two integer values are in between 50 to 99</h4>
+</head>
+<body>
+    <script>
+        function check_num(x, y) 
+        {
+            if ((x >= 50 && x <= 99) || (y >= 50 && y <= 99))
+            {
+              return true;
+            } 
+            else 
+            {
+                return false;
+            }
+        }
+document.writeln(check_num(8,108));
+document.writeln(check_num(56, 90));
+document.writeln(check_num(61, 99));
+</script>    
+</body>
+</html>
